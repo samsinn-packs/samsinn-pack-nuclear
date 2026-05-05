@@ -1,0 +1,11 @@
+{
+  "name": "nuclear",
+  "description": "Nuclear AI research wiki — 87 interlinked pages on AI agent systems for nuclear operations.",
+  "version": "0.2.0",
+  "wikis": [
+    {
+      "name": "Nuclear Wiki",
+      "url": "https://samsinn-wikis.github.io/nuclear-wiki/"
+    }
+  ]
+}
